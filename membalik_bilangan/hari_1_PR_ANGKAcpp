@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int a=/*angka 4 digit*/
+
+    /*output: 1234 menjadi 4321*/
+}
